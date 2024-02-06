@@ -129,3 +129,5 @@ Use the sample data first `data\twitter_data_clean_sample.csv`.
 5. [Guide to implement a ChromaDB vector database](https://docs.trychroma.com/getting-started) 
 6. [Free hosting for Flask app](https://www.pythonanywhere.com)
 7. How to use Git and how to push on GitHub from Visual Studio: Ask ChatGPT 😉
+8. ChatGPT : https://chat.openai.com/
+9. MistralAI : https://labs.perplexity.ai/
